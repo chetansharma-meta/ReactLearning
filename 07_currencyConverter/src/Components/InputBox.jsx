@@ -8,4 +8,4 @@ function input() {
   )
 }
 
-export default input
+export default input;
